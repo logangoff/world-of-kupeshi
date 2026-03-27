@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History of Kupeshi/The Origin Myth of Kupeshi.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Origin Myth of Kupeshi"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History of Kupeshi/The Origin Myth of Kupeshi.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Origin Myth of Kupeshi"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History of Kupeshi/The Origin Myth of Kupeshi.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Origin Myth of Kupeshi"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History of Kupeshi/The Origin Myth of Kupeshi.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Origin Myth of Kupeshi"
+              "title": "Outline of index"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "History of Kupeshi/The Origin Myth of Kupeshi.md",
     "The Twin's Brushes.md",
     "Salt Mark.md",
     "Misc Ideas.md",
@@ -200,7 +201,6 @@
     "Laws of the World/True God.md",
     "Laws of the World/Divine Law.md",
     "Laws of the World/Divine Inheritance.md",
-    "History of Kupeshi/The Origin Myth of Kupeshi.md",
     "History of Kupeshi/Untitled.base",
     "12 Wonders of Kupeshi",
     "Pantheon of the Risen",
