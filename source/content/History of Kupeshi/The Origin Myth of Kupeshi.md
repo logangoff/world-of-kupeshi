@@ -1,0 +1,23 @@
+At first, there was simply a Man, and his Canvas.
+
+[[Hanan]] is a figure lost to time, but vestiges of him are everywhere. With his brushstrokes he painted the endless [[Hymire Oceans]], the floating [[Mountains of Od]], and all other [[12 Wonders of Kupeshi/index|wonders of the world]]. He named his world [[Kupeshi]], and basked in its beauty.
+
+Through infinite time he observed, but with time came boredom. What was a perfect work of art if it could not be shared? What was a world without life?
+
+Hanan created two to live in his world: [[Uji]] and [[Witta]], the Twins. Uji was painted by Hanan with the Land and Sun, and Witta of the Sea and Moon. They were painted with great care and detail, each infused with what Hanan wanted them to bring to his world. They too were gods, but each [[Divine Inheritance#The Dimming|only capable of a portion]] of Hanan's power.
+
+The Twins lived ordinarily in Kupeshi, exploring it freely. Hanan often watched his world and its new occupants, but the scale of time for a [[True God]] is vast, so centuries could pass between his gazes. The Twins loved Kupeshi, but they wondered often. What was a world if it was static? If they could not make it more beautiful? In these times, the Twins often spoke of what Kupeshi could be, if only a few more lived in its beauty. 
+
+The Twins had only one rule given to them by Hanan - He is a maker, they are not. They live in his creation, and to defile it would be a great transgression. Yet still, the twins created - both the greatest blessing and curse that Kupeshi would ever experience.
+
+Uji crafted his [[The Twin's Brushes|brush]] out of the first stone that the sun ever warmed and wet its bristles in the silence between mountains. He made Pride and Apathy. Witta crafted her brush out of the grief of waves that broke against the shore only to disappear and filled it with the colors of a storm that no one had seen. She made Delusion and Rage. These new beings we unshackled and free from the [[Divine Law]] that bound The Twins and Hanan. [[Pantheon of Makers/The 4 Sinners/index|The 4 Sinners]] spread across the world, inheriting power from the Twins, and began to create.
+
+[[Divine Pride]] delved into caverns of [[mirrored ore]] beneath the earth and built a forge where every surface showed his reflection back a thousand times. There he made the Dwarves, the Orcs, and the Humans. Each was convinced of their own supremacy, each blind to the others' worth. They were born already reaching for Pride's favor, and have been fighting over it ever since.
+
+[[Divine Delusion]] hid herself amongst the rolling green of [[The Great Grass Sea]], and gazed upon the endless horizon. There she wove the Gnomes, Halflings, Centaurs, and the Elves into being. They were beautiful, hungry creatures, each cursed with a hollow place at their center that no amount of living can fill. They instinctively reach for new heights, new loves, new horizons, and find upon arriving that the void is still not sated.
+
+[[Divine Rage]] was not a creator in any meaningful sense. He simply waded into the salt water of [[The Great Vein]] and let the world react to his presence. The salt crystallizing against his skin, falling away, and rising from the shallows as monsters. Goblins, Nagaji, Leshies find themselves among the salt-born, none of them were made so much as provoked into existence. Even now, children are occasionally born across all races bearing the [[Salt Mark]] upon their brow, cursed for a bloody life and death.
+
+[[Divine Apathy]] sought no cavern, no sea, no place of power. It climbed to the quiet, airless heights of the Mountains of Od and laid down beneath the stars and dreamt of death. From its dreams drifted the Fetchlings, half-present and shadowbound, the Undead, who cannot find the will to finish dying, and the Kobolds, who woke into a world that had already decided they did not matter.
+
+The gaze of Hanan fell back upon the world and found it ruined. Where he had painted still beauty, there was now noise and the endless squabbling of creatures who didn't have the right to exist. His order had been broken. His canvas defiled. Hanan turned away from Kupeshi and his gaze never returned. The Twins, bereft of their creator's gaze, slowly faded from the world and waited for death. Grief is a long, quiet way to die for a god. This abandonment marks the end of [[The Age of Makers]], and the beginning of [[The Age of Firsts]]: the first wars, the first histories, the first kingdoms, the first prayers sent upward to gods who were already gone.

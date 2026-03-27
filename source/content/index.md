@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: The World of Kupeshi
 ---
 
-Hello world!
-
-Write some words here! Test
+Write an intro to the world, add some images, etc.
