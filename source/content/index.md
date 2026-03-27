@@ -1,5 +1,6 @@
 ---
 title: The World of Kupeshi
+link: "[[The Origin Myth of Kupeshi]]"
 ---
-[[The Origin Myth of Kupeshi]]
-Write an intro to the world, add some images, etc.
+
+Write an intro to the world, add some images, et
